@@ -1,5 +1,5 @@
 # 👋 Hello there! 
-## 👨‍💻 My name is Ákos. I 🛠 kézműves szoftver.
+### 👨‍💻 My name is Ákos. I 🛠 kézműves szoftver.
 
 <br />
 
