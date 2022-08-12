@@ -1,7 +1,7 @@
 # 👋 Hello there! 
 ### 👨‍💻 My name is Ákos. I 🛠 kézműves szoftver.
 
-![Ákos' GitHub stats](https://github-readme-stats.vercel.app/api?username=AkosKovacs0&theme=dark&show_icons=true)
+![Ákos' GitHub stats](https://github-readme-stats.vercel.app/api?username=AkosKovacs0&theme=dark&show_icons=true&count_private=true)
 
 ### 😎 Check out [@akoskovacs](https://github.com/akoskovacs) or [sokacsavok.com](https://sokacsavok.com) for my boring personal stuff.
 
